@@ -96,6 +96,25 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
+
+---
+
+## 🚀 Hands-on: Din första commit & PR i TE4
+
+Nu är det dags att prova på det du läst om. Den här övningen är **obligatorisk** för att säkerställa att allt fungerar (VS Code, Git, GitHub, Classroom).
+
+### Steg 1 – Klona ditt repo
+- Klona den här uppgiftens repo till din dator (via VS Code eller GitHub Desktop).
+
+### Steg 2 – Ändra README
+- Öppna `README.md` (den här filen).
+- Scrolla ned till avsnittet “Deltagare” och lägg till en rad med ditt namn och GitHub-handle, t.ex.:
+
+## Deltagare
+- Alice Andersson — @alice-dev
+
+---
+
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 

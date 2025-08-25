@@ -111,7 +111,7 @@ Nu är det dags att prova på det du läst om. Den här övningen är **obligato
 - Scrolla ned till avsnittet “Deltagare” och lägg till en rad med ditt namn och GitHub-handle, t.ex.:
 
 ## Deltagare
-- Alice Andersson — @alice-dev
+- Liam Wiklund - @LiamW11
 
 ---
 

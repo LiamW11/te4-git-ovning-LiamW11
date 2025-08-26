@@ -2,39 +2,39 @@
 
 ## Innan övningen
 **Vad visste du om Git innan denna övning?**
-[Skriv ditt svar här]
+[0]
 
 **Vad förväntade du dig att lära dig?**
-[Skriv ditt svar här]
+[Hur man programmerade och utvecklade mjukvara]
 
 ## Efter övningen
 **Vad har du lärt dig om Git?**
-[Skriv ditt svar här]
+[Det är svårt just nu i början men jag ser att det kan vara ett väldigt smitidigt sätt att hantera filer samt att undersöka vad som sker i datorn medan du arbetar med den.]
 
 **Vilka kommandon har du använt?**
-- [ ] `git clone`
-- [ ] `git status`
-- [ ] `git add`
-- [ ] `git commit`
-- [ ] `git push`
-- [ ] `git log`
-- [ ] `git diff`
+- [Ja] `git clone`
+- [Ja] `git status`
+- [Ja] `git add`
+- [Ja] `git commit`
+- [Ja] `git push`
+- [Nej] `git log`
+- [Nej] `git diff`
 
 **Vad var svårast?**
-[Skriv ditt svar här]
+[Jag tyckte det var svårast att skapa filer och innehåll i dessa filer.]
 
 **Vad var lättast?**
-[Skriv ditt svar här]
+[Att använda status, add samt commit för att göra ändringar.]
 
 **Hur tror du att Git kommer vara användbart i framtiden?**
-[Skriv ditt svar här]
+[Jag tror att det kommer användas mycket i felsökning.]
 
 ## Frågor och tankar
 **Har du några frågor kvar om Git?**
-[Skriv dina frågor här]
+[Jag undrar hur lång tid det egentligen tar att bli bra med git och hur arbetsprocessen för någon som använder git flitigt ser ut.]
 
 **Vad vill du lära dig mer om?**
-[Skriv ditt svar här]
+[Git överlag då det verkar intressant.]
 
 ---
 *Fyyll i denna reflektion som en del av uppgift 3*

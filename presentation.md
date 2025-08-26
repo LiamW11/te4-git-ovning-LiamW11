@@ -12,6 +12,6 @@ Liam Wiklund
 3. *Musik*
 
 ## Mål med kursen
-Att kunna ha tillräckligt med kunskap för att kunna få jobb efter kursens slut#
+Att kunna ha tillräckligt med kunskap för att kunna få jobb efter kursens slut.
 
 ***banan***
